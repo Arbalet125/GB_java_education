@@ -12,7 +12,7 @@ public class main {
         
         long num = 12L; // int num = 12 - если целое число, но 12L - длинное число, поэтому большое
         float num2 = 10.15F; //double num2 = 10.15 - если мало чисел после запятой, float - много чисел после запятой
-
+        System.out.println(num+num2);
 
         if (var >= var2) {
             System.out.println("Этот код не отобразиться");
