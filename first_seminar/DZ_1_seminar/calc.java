@@ -52,7 +52,7 @@ public static void main(String[] args){
     a = Integer.parseInt(tempA);
     b = Integer.parseInt(tempB);
 
-    int res = power(3,2);
+    int res = power(a,b);
     
 
 
