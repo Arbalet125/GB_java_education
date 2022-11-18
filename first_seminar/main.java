@@ -1,4 +1,4 @@
-package GB_java_education.first_seminar;
+/* package GB_java_education.first_seminar;
 public class main {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -38,4 +38,4 @@ public class main {
     }
 
 
-}
+} */
