@@ -8,29 +8,29 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-package GB_java_education.first_seminar.DZ_1_seminar;
+// package GB_java_education.first_seminar.DZ_1_seminar;
 
-public class inches_meters {
-    public static void main(String[] args) {
-		double meter;
-		int counter;
-		int inch;
-		int foot;
+// public class inches_meters {
+//     public static void main(String[] args) {
+// 		double meter;
+// 		int counter;
+// 		int inch;
+// 		int foot;
 
-		counter = 0;    
-		foot = 12 * 12;
+// 		counter = 0;    
+// 		foot = 12 * 12;
 
-		for (inch = 1; inch <= foot; inch++) {
-			meter = inch / 39.37;
+// 		for (inch = 1; inch <= foot; inch++) {
+// 			meter = inch / 39.37;
 
-			System.out.println(inch + " дюйму соотвествует " + meter + " метра.");
+// 			System.out.println(inch + " дюйму соотвествует " + meter + " метра.");
 
-			counter++;
+// 			counter++;
 
-			if (counter == 12) {    
-				System.out.println();
-				counter = 0;
-			}
-		}
-	}
-}
+// 			if (counter == 12) {    
+// 				System.out.println();
+// 				counter = 0;
+// 			}
+// 		}
+// 	}
+// }

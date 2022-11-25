@@ -5,7 +5,7 @@
 */
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-package GB_java_education.first_seminar.DZ_1_seminar;
+// package GB_java_education.first_seminar.DZ_1_seminar;
 
 import java.util.Scanner;
 public class weight_on_moon {
