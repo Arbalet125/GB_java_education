@@ -48,7 +48,7 @@ public class main
 
     int[] myArray = initArray();
     System.out.print(myArray.length);
-    
+    System.out.println(getPercentUniqueValues(myArray));
 } */
 
 
