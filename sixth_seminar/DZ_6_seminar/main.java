@@ -43,12 +43,14 @@ public class main
         for (int x : array) {
             mySet.add(x);
         }
-        System.out.println(mySet.size());      
+        int res = 0;
+        res = (mySet.size)*100/array.length;
+        return res;      
     }
 
     int[] myArray = initArray();
     System.out.print(myArray.length);
-    System.out.println(getPercentUniqueValues(myArray));
+    System.out.println(getPercentUniqueValues(myArray)+"%");
 } */
 
 
